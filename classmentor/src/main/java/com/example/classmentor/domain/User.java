@@ -10,4 +10,5 @@ public class User {
     @GeneratedValue
     private long userId;
     private String name;
+    private String password;
 }
