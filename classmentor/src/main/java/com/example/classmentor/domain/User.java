@@ -9,6 +9,5 @@ public class User {
     @Id
     @GeneratedValue
     private long userId;
-
     private String name;
 }
